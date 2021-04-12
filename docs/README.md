@@ -10,8 +10,9 @@ Go give it a try!
 ## How to Link
 
 Copy and Paste the Code snippet given below, this will connect the v.1.0 of Eccentric Touch to your webpage.
+
 ```html
-<link rel="stylesheet" href="https://cdn.statically.io/gh/DesignSystemsOSS/eccentrictouch/v2.0/src/lib/eccentric.css">
+<link rel="stylesheet" href="https://cdn.statically.io/gh/DesignSystemsOSS/eccentrictouch/v2.0.0/stable/src/lib/eccentric.css">
 ```
 
 
@@ -31,6 +32,8 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 |Valid|`<button class="et-button-valid">Valid</button>`|<button class="et-button-valid">Valid</button>|
 |Valid Secondary|`<button class="et-button-valid-secondary">Valid</button>`|<button class="et-button-valid-secondary">Valid</button>|
 
+
+
 ### Headings
 
 |Heading Type|Code in HTML|Heading Demo|
@@ -45,6 +48,7 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 
 ### Text Tags
 
+
 |Tag Type|Code in HTML|Demo|
 |-----------|----------|-----------|
 |paragraph|`<p class="et-paragraph">Paragraph Text</p>`|<p class="et-paragraph">Paragraph Text</p>|
@@ -52,3 +56,10 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 |italics|`<i>Italic Text</i>`</h3>|<i>Italic Text</i>|
 |underline|`<u>Underlined Text</u>`|<u>Underlined Text</u>|
 |quote|`<q>Quote</q>`|<q>Quote</q>|
+
+### Form and Input Elements
+
+|Element Type|Code in HTML|Element Demo|
+|-----------|----------|-----------|
+|input:text|`<input type="text" placeholder="Type Something">`|<input type="text" placeholder="Type Something"/>|
+|textarea|`<textarea placeholder="Type something"></textarea>`|<textarea placeholder="Type something"></textarea>|
